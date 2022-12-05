@@ -9,6 +9,9 @@ nav {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
 a {
   text-decoration: none;
