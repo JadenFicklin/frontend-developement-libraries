@@ -14,23 +14,23 @@ function App() {
         <nav>
           <Link to="/randomquote" className="nav-item nav-item-1">
             {" "}
-            randomquote{" "}
+            Random Quote{" "}
           </Link>
           <Link to="/markdownpreviewer" className="nav-item nav-item-2">
             {" "}
-            markdownpreviewer{" "}
+            Markdown Previewer{" "}
           </Link>
           <Link to="/drummachine" className="nav-item nav-item-3">
             {" "}
-            DrumMachine{" "}
+            Drum Machine{" "}
           </Link>
           <Link to="/javascriptCalculator" className="nav-item nav-item-4">
             {" "}
-            javascriptcalculator{" "}
+            JavaScript Calculator{" "}
           </Link>
           <Link to="/clock" className="nav-item nav-item-5">
             {" "}
-            clock{" "}
+            Clock{" "}
           </Link>
         </nav>
 
