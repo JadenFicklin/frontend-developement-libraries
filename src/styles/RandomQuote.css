@@ -9,7 +9,7 @@
 }
 .quote-box {
   width: 580px;
-  height: 330px;
+  height: 380px;
   background-color: white;
   border-radius: 5px;
   display: flex;
@@ -36,12 +36,13 @@
 }
 .quote-buttons {
   width: 100%;
-  height: 100px;
+  height: 270px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   position: relative;
+  user-select: none;
 }
 .quote-twitter,
 .quote-tumblr {
@@ -82,6 +83,7 @@
   width: 25px;
   height: 25px;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 .icon {
   fill: white;
